@@ -1,0 +1,8 @@
+git clone <https> clones repo
+
+git add .      commits any unreported changes to git 
+
+git commit - "new files is added to see how commit works"
+
+git push orgin main       pushing files
+
