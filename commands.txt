@@ -6,3 +6,15 @@ git commit - "new files is added to see how commit works"
 
 git push orgin main       pushing files
 
+above line may not work because you meed to give access to remote path you're working on 
+1) Find what remote path you're on 
+	you can get this by running git remote -v
+	else you can also get this by copying github_cli URL under "code"
+
+2) Next you can add your remote path with command
+
+git remote add orgin <copied URL>
+
+3) Now push main 
+
+git push orgin main
